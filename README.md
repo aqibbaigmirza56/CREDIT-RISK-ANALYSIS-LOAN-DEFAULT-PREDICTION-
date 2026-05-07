@@ -69,5 +69,5 @@ Predicts High Risk (Loan Rejected)
 
 👩‍💻 Author
 
-Manaswini
+AQIB NAIG MIRZA
 B.Tech CSE (AI & ML)
